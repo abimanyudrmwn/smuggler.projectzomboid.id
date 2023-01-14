@@ -23,40 +23,40 @@
 
 export default {
   head: {
-    title: 'DrmwnSpace - Homepage',
+    title: 'Mods - Indonesia Project Zomboid',
     meta: [
       { 
         name: 'author', 
-        content: 'Abimanyu Darmawan' 
+        content: 'Indonesia Project Zomboid' 
       },
       {
         name: 'description',
-        content: 'Hello I&#39;am Abimanyu - Frontend Developer, Graphic Designer and Game Development Enthusiast',
+        content: 'Home for Project Zomboid mods from "Indonesia Project Zomboid" Community Server',
       },
       {
         key: 'og:title',
         property: 'og:title',
-        content: 'DrmwnSpace - Homepage',
+        content: 'Mods - Indonesia Project Zomboid',
       },
       {
         key: 'og:description',
         property: 'og:description',
-        content: 'Hello Iam Abimanyu - Frontend Developer, Graphic Designer and Game Development Enthusiast',
+        content: 'Home for Project Zomboid mods from "Indonesia Project Zomboid" Community Server',
       },
       { 
         hid: 'og:image', 
         property: 'og:image', 
-        content: 'https://res.cloudinary.com/belanga/image/upload/v1650919422/drmwnicon-01_spqbmw.jpg',
+        content: 'https://www.projectzomboid.id/assets/img/hero-logo.png',
       },
       {
         key: 'og:url',
         property: 'og:url',
-        content: 'https://drmwn.space',
+        content: 'https://mods.projectzomboid.id',
       },
       {
         key: 'twitter:title',
         name: 'twitter:title',
-        content: 'DrmwnSpace - Homepage',
+        content: 'Mods - Indonesia Project Zomboid',
       },
       {
         key: 'twitter:card',
@@ -66,12 +66,12 @@ export default {
       {
         key: 'twitter:creator',
         name: 'twitter:creator',
-        content: '@abimanyudrmwn',
+        content: '@indonesiaprojectzomboid',
       },
       {
         key: 'twitter:description',
         name: 'twitter:description',
-        content: 'Hello I&#39;am Abimanyu - Frontend Developer, Graphic Designer and Game Development Enthusiast',
+        content: 'Home for Project Zomboid mods from "Indonesia Project Zomboid" Community Server',
       }
     ]
   },

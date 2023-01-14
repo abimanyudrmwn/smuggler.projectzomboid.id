@@ -4,18 +4,18 @@
       class="mx-auto max-w-5xl tracking-wide px-6 xl:px-0 prose lg:prose-xl font-sora"
     >
   
-      <img :src="`/images/covers/${mods.coverImage}`" class="max-w-full rounded h-auto mt-12 mb-4 shadow-md">
+      <img :src="`/images/covers/${article.coverImage}`" class="max-w-full rounded h-auto mt-12 mb-4 shadow-md">
       <h3 class="font-sora text-md font-bold">
-              <router-link :to="`/blog/${mods.slug}`">
-                {{ mods.title }}
+              <router-link :to="`/blog/${article.slug}`">
+                {{ article.title }}
               </router-link>
             </h3> 
-      <nuxt-content :document="mods" />
+      <nuxt-content :document="article" />
   
       <YoutubeVideo
-        v-if="mods.youtube"
-        :id="mods.youtube"
-        :title="mods.title"
+        v-if="article.youtube"
+        :id="article.youtube"
+        :title="article.title"
       />
       <div class="mt-6 mb-4 p-1 text-white bg-gray-100 rounded-full"></div> 
       <footer class="py-10 px-5 text-center mx-auto max-w-5xl">
@@ -32,13 +32,13 @@
   import YoutubeVideo from "../../components/global/YoutubeVideo.vue";
   export default {
     async asyncData({ $content, params }) {
-      const mods = await $content("mods", params.slug).fetch();
-      const [prev, next] = await $content("mods")
+      const article = await $content("contributors", params.slug).fetch();
+      const [prev, next] = await $content("contributors")
         .only(["title", "slug"])
         .sortBy("createdAt", "desc")
         .surround(params.slug)
         .fetch();
-      return { mods, prev, next };
+      return { article, prev, next };
     },
     components: { YoutubeVideo },
     head () {

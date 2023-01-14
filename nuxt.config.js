@@ -2,16 +2,6 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: "static",
 
-  // Global page headers: https://go.nuxtjs.dev/config-head
-  head: {
-    title: "DrmwnSpace",
-    htmlAttrs: {
-      lang: "en",
-    },
-    titleTemplate: 'DrmwnSpace - %s',
-    title: 'DrmwnSpace',
-  },
-
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: ["@/assets/css/main.css"],
 
