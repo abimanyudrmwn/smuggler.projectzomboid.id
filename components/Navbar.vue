@@ -1,70 +1,38 @@
 <template>
-  <div>
-    <div class="bg-white shadow-sm">
-      <nav class="container px-6 py-3 mx-auto md:flex md:justify-between md:items-center">
-        <div class="flex items-center justify-between">
-          <router-link to="/" class="text-xl font-boldtext-gray-800 md:text-2xl hover:text-blue-400">
-            <img src="../static/images/logo.svg" alt="Logo DrmwnSpace" class="h-10">
-          </router-link>
-          <!-- Mobile menu button -->
-          <div @click="showMenu = !showMenu" class="flex md:hidden">
-            <button
-              type="button"
-              class="
-                text-gray-800
-                hover:text-gray-400
-                focus:outline-none focus:text-gray-400
-              "
-            >
-              <svg viewBox="0 0 24 24" class="w-6 h-6 fill-current">
-                <path
-                  fill-rule="evenodd"
-                  d="M4 5h16a1 1 0 0 1 0 2H4a1 1 0 1 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2z"
-                ></path>
-              </svg>
-            </button>
+  <header>
+  <nav class="bg-gray-800 border-gray-200 px-4 lg:px-6 py-2.5 dark:bg-slate-800 sticky">
+      <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
+          <a href="https://www.mods.projectzomboid.id" class="flex items-center">
+              <img src="https://www.projectzomboid.id/assets/img/hero-logo.png" class="mr-3 h-6 sm:h-9" alt="Flowbite Logo" />
+              <span class="self-center text-xl font-semibold whitespace-nowrap text-gray-300">Mods</span>
+          </a>
+          <div class="flex items-center lg:order-2">
+              <a href="#" class="text-gray-300 focus:ring-4 focus:ring-gray-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 mr-2 dark:hover:bg-gray-700 focus:outline-none dark:focus:ring-gray-800">Github</a>
+              <button data-collapse-toggle="mobile-menu-2" type="button" class="inline-flex items-center p-2 ml-1 text-sm text-gray-500 rounded-lg lg:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="mobile-menu-2" aria-expanded="false">
+                  <span class="sr-only">Open main menu</span>
+                  <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd"></path></svg>
+                  <svg class="hidden w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
+              </button>
           </div>
-        </div>
-
-
-        <!-- Mobile Menu open: "block", Menu closed: "hidden" -->
-        <ul
-          :class="showMenu ? 'flex' : 'hidden'"
-          class="
-            flex-col
-            mt-8
-            space-y-4
-            md:flex
-            md:space-y-0
-            md:flex-row
-            md:items-center
-            md:space-x-10
-            md:mt-0
-          "
-        >
-          <li class="text-sm font-bold font-sora text-gray-800 hover:text-blue-400">
-            <router-link to="/">Home</router-link>
-          </li>
-          <li class="text-sm font-bold font-sora text-gray-800 hover:text-blue-400">
-            <router-link to="/about">About</router-link>
-          </li>
-          <li class="text-sm font-bold font-sora text-gray-800 hover:text-blue-400">
-            <router-link to="/portfolio">Portfolio</router-link>
-          </li>
-          <li class="text-sm font-bold font-sora text-gray-800 hover:text-blue-400">
-            <router-link to="/blog">Blog</router-link>
-          </li>
-        </ul>
-      </nav>
-    </div>
-  </div>
+          <div class="hidden justify-between items-center w-full lg:flex lg:w-auto lg:order-1" id="mobile-menu-2">
+              <ul class="flex flex-col mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0">
+                  <li>
+                      <router-link class="block font-sora py-2 pr-4 pl-3 text-gray-400 hover:text-gray-100" to="/">Home</router-link>
+                  </li>
+                  <li>
+                      <router-link class="block font-sora py-2 pr-4 pl-3 text-gray-400 hover:text-gray-100" to="/about">About</router-link>
+                  </li>
+                  <li>
+                      <router-link class="block font-sora py-2 pr-4 pl-3 text-gray-400 hover:text-gray-100" to="/mods">Mods</router-link>
+                  </li>
+                  <li>
+                      <router-link class="block font-sora py-2 pr-4 pl-3 text-gray-400 hover:text-gray-100" to="/blog">Wikis</router-link>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </nav>
+</header>
 </template>
 <script>
-export default {
-  data() {
-    return {
-      showMenu: false,
-    };
-  },
-};
 </script>

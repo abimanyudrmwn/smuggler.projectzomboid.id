@@ -1,12 +1,6 @@
 <template>
-  <div class="mx-auto max-w-5xl tracking-wide px-6 xl:px-0">
-    <nav class="rounded-md w-full mt-6 mb-4">
-      <ol class="list-reset flex">
-        <li><a class="font-sora text-blue-600 hover:text-blue-700"><router-link to="/">Home</router-link></a></li>
-        <li><span class="text-gray-500 mx-2 font-sora">/</span></li>
-        <li class="text-gray-500 font-sora">Blog</li>
-      </ol>
-    </nav>
+  <div class="bg-gray-900">
+    <div class="mx-auto max-w-5xl tracking-wide px-6 xl:px-0">
   <h2 class="text-2xl font-bold font-sora mb-10">{{title}}</h2>
   <div class="grid grid-cols-1 md:grid-cols-2 gap-10">
     <div v-for="article in current" :key="article.slug" class="border border-gray-100 rounded-xl shadow-lg">
@@ -34,17 +28,8 @@
           </div>
         </div>
       </div>
-  </div>
-
-  <footer class="py-10 px-5 text-center mx-auto max-w-5xl">
-      <span class="font-sora font-md text-md">
-            <a href="https://github.com/abimanyudrmwn" title="abimanyudrmwn - Github" target="_blank" class="underline text-gray-700"><span>Github</span></a>,
-            <a href="https://youtube.com/@abimanyudrmwn" title="abimanyudrmwn - Youtube" target="_blank" class="underline text-gray-700"><span>Youtube</span></a>,
-            <a href="https://instagram.com/drmwnspace" title="abimanyudrmwn - Github" target="_blank" class="underline text-gray-700"><span>Instagram</span></a>
-          </span>
-        <p class="mt-6 text-sm text-gray-500 font-sora">©2022 DrmwnSpace - Build with Vue + Nuxt ❤️ Tailwind CSS</p>
-    </footer>
-
+      </div>
+    </div>
 </div>
 </template>
 

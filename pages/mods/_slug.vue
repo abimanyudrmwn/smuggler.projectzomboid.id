@@ -32,8 +32,8 @@
   import YoutubeVideo from "../../components/global/YoutubeVideo.vue";
   export default {
     async asyncData({ $content, params }) {
-      const article = await $content("portfolio", params.slug).fetch();
-      const [prev, next] = await $content("portfolio")
+      const article = await $content("mods", params.slug).fetch();
+      const [prev, next] = await $content("mods")
         .only(["title", "slug"])
         .sortBy("createdAt", "desc")
         .surround(params.slug)
