@@ -1,7 +1,7 @@
 ---
 title: "WartegFood Extended Item List"
-description: Frontend Framework yang digunakan Startup Indonesia (Tahun 2021).
-frase: Terkadang memperbincangkan sebuah Startup tidak lepas..
+description: WartegFoodExtended is a mod for Project Zomboid which adds several Indonesian food recipes.
+frase: WartegFoodExtended is a mod for Project Zomboid which adds several Indonesian food recipes.
 tags:
   - ProjectZomboid Mods
 category: Wiki
