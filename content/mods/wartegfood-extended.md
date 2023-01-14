@@ -1,6 +1,6 @@
 ---
 title: "WartegFood Extended"
-description: Frontend Framework yang digunakan Startup Indonesia (Tahun 2021).
+description: WartegFoodExtended is a mod for Project Zomboid which adds several Indonesian food recipes.
 tags:
   - Netlify
   - Frontend
