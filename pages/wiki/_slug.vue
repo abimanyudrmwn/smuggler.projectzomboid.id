@@ -31,6 +31,43 @@ export default {
       .fetch();
     return { article, prev, next };
   },
+  async fetch() {
+    const { data } = await this.$axios.get(
+      `api_url`
+    );
+    this.article = data.response.results[0];
+    this.loading = false;
+  },
+  data() {
+    return {
+      article: {},
+    };
+  },
+  head() {
+    return {
+      title: this.article.title ? `${this.article.title}` : "",
+      meta: [
+        {
+          hid: "description",
+          name: "description",
+          content: this.article.frase,
+        },
+        { hid: "og-title", property: "og:title", content: this.article.title },
+        {
+          hid: "og-image",
+          property: "og:image",
+          content: this.article.coverImage,
+        },
+        { hid: "og-image-width", property: "og:image:width", content: 500 },
+        { hid: "og-image-height", property: "og:image:height", content: 300 },
+        {
+          hid: "og-image-type",
+          property: "og:image:type",
+          content: "image/jpeg",
+        },
+      ],
+    };
+  },
   components: { YoutubeVideo },
 };
 </script>
