@@ -37,7 +37,7 @@
 export default {
   async asyncData({ $content, params }) {
     const articles = await $content("wiki", params.slug)
-      .sortBy("date", "desc")
+      .sortBy("date")
       .fetch();
 
     const all = articles.map((e) => e.category);
