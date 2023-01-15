@@ -1,7 +1,7 @@
 ---
 title: "Project Zomboid Room Definition (41.65+)"
-description: Listed below are all of the current new room definitions.
-frase: Listed below are all of the current new room definitions.
+description: Listed below are all of the current new room definitions which should be used for internal room names in buildingEd..
+frase: Listed below are all of the current new room definitions which should be used for internal room names in buildingEd..
 tags:
   - ProjectZomboid Wiki
 category: Wiki
