@@ -14,69 +14,65 @@ avatar : "https://cdn.discordapp.com/avatars/566871075355623449/c5acf65c14af4c8f
 
 ## aesthetic
 
-counter
-metal_shelves
-crate
+- counter
+- metal_shelves
+- crate
 
-  
 
 ## aestheticstorage
 
-metal_shelves
-crate
-
-  
+- metal_shelves
+- crate
 
 ## all
 
-displaycasebakery
-restaurantdisplay
-plankstash
-cashregister
-campfire
-clothingdryer
-clothingwasher
-clothingrack
-freezer
-dishescabinet
-dresser
-postbox
-corn
-logs
-locker
-fruitbusha
-fruitbushb
-fruitbushc
-fruitbushd
-fruitbushe
-inventorymale
-inventoryfemale
-shelvesmag
-desk
-filingcabinet
-stove
-microwave
-medicine
-wardrobe
-crate
-counter
-sidetable
-freezer
-fridge
-vendingsnack
-vendingpop
-bin
-officedrawers
-metal_shelves
-shelves
-other
+- displaycasebakery
+- restaurantdisplay
+- plankstash
+- cashregister
+- campfire
+- clothingdryer
+- clothingwasher
+- clothingrack
+- freezer
+- dishescabinet
+- dresser
+- postbox
+- corn
+- logs
+- locker
+- fruitbusha
+- fruitbushb
+- fruitbushc
+- fruitbushd
+- fruitbushe
+- inventorymale
+- inventoryfemale
+- shelvesmag
+- desk
+- filingcabinet
+- stove
+- microwave
+- medicine
+- wardrobe
+- crate
+- counter
+- sidetable
+- freezer
+- fridge
+- vendingsnack
+- vendingpop
+- bin
+- officedrawers
+- metal_shelves
+- shelves
+- other
 
-  
 
 ## armyhanger
 
-metal_shelves
-counter
+- metal_shelves
+- counter
 locker
 
   
@@ -84,14 +80,14 @@ locker
 ## armystorage
 
 locker
-metal_shelves
+- metal_shelves
 
   
 
 ## armysurplus
 
 shelves
-metal_shelves
+- metal_shelves
 clothingrack
 
   
@@ -100,7 +96,7 @@ clothingrack
 
   
 
-counter
+- counter
 shelves
 
   
@@ -109,7 +105,7 @@ shelves
 
 displaycase
 displaycasebakery
-counter
+- counter
 grocerstand
 
   
@@ -118,11 +114,11 @@ grocerstand
 
   
 
-counter
-crate
-freezer
-fridge
-metal_shelves
+- counter
+- crate
+- freezer
+- fridge
+- metal_shelves
 restaurantdisplay
 
   
@@ -131,8 +127,8 @@ restaurantdisplay
 
   
 
-counter
-fridge
+- counter
+- fridge
 overhead
 
   
@@ -146,7 +142,7 @@ locker
 ## bandmerch
 
 clothingrack
-metal_shelves
+- metal_shelves
 shelves
 
   
@@ -154,24 +150,24 @@ shelves
 ## bar
 
 shelves
-counter
+- counter
 bin
 
   
 
 ## barkitchen
 
-fridge
-freezer
+- fridge
+- freezer
 shelves
-counter
+- counter
 bin
 
   
 
 ## barstorage
 
-crate
+- crate
 bin
 
   
@@ -180,14 +176,14 @@ bin
 
   
 
-crate
-metal_shelves
+- crate
+- metal_shelves
 
   
 
 ## bathroom
 
-counter
+- counter
 medicine
 
   
@@ -196,8 +192,8 @@ medicine
 
   
 
-crate
-metal_shelves
+- crate
+- metal_shelves
 
   
 
@@ -205,9 +201,9 @@ metal_shelves
 
   
 
-counter
-crate
-metal_shelves
+- counter
+- crate
+- metal_shelves
 
   
 
@@ -215,7 +211,7 @@ metal_shelves
 
   
 
-crate
+- crate
 
   
 
@@ -233,15 +229,15 @@ locker
   
 
 bin
-counter
-fridge
+- counter
+- fridge
 
   
 
 ## bookstore
 
 shelves
-counter
+- counter
 
   
 
@@ -255,8 +251,8 @@ shelves
 
 ## breakroom
 
-counter
-fridge
+- counter
+- fridge
 overhead
 shelves
 
@@ -266,10 +262,10 @@ shelves
 
   
 
-counter
-crate
-laundrydryerbasic
-metal_shelves
+- counter
+- crate
+- laundrydryerbasic
+- metal_shelves
 
   
 
@@ -277,34 +273,34 @@ metal_shelves
 
   
 
-crate
-laundrydryerbasic
-metal_shelves
+- crate
+- laundrydryerbasic
+- metal_shelves
 
   
 
 ## burgerstorage
 
-metal_shelves
-crate
+- metal_shelves
+- crate
 
   
 
 ## burgerkitchen
 
-freezer
-fridge
-counter
+- freezer
+- fridge
+- counter
 
   
 
 ## butcher
 
 displaycasebutcher
-fridge
-freezer
+- fridge
+- freezer
 shelves
-counter
+- counter
 
   
 
@@ -312,8 +308,8 @@ counter
 
   
 
-crate
-metal_shelves
+- crate
+- metal_shelves
 overhead
 
   
@@ -322,8 +318,8 @@ overhead
 
   
 
-counter
-metal_shelves
+- counter
+- metal_shelves
 overhead
 
   
@@ -332,24 +328,24 @@ overhead
 
   
 
-counter
+- counter
 displaycase
 
   
 
 ## cafekitchen
 
-fridge
-freezer
-counter
+- fridge
+- freezer
+- counter
 shelves
 
   
 
 ## cafeteria
-counter
+- counter
 displaycasebakery
-metal_shelves
+- metal_shelves
 shelves
 restaurantdisplay
 
@@ -359,11 +355,11 @@ restaurantdisplay
 
   
 
-counter
-crate
-freezer
-fridge
-metal_shelves
+- counter
+- crate
+- freezer
+- fridge
+- metal_shelves
 restaurantdisplay
 
   
@@ -372,11 +368,11 @@ restaurantdisplay
 
   
 
-counter
+- counter
 
-crate
+- crate
 displaycase
-metal_shelves
+- metal_shelves
 shelves
 
   
@@ -386,30 +382,30 @@ shelves
   
 
 clothingrack
-fridge
-freezer
-counter
+- fridge
+- freezer
+- counter
 shelves
 
   
 
 ## campingstorage
 
-crate
+- crate
 
   
 
 ## candystorage
 
-metal_shelves
-crate
+- metal_shelves
+- crate
 
   
 
 ## candystore
 
 displaycase
-counter
+- counter
 
   
 
@@ -417,8 +413,8 @@ counter
 
   
 
-counter
-metal_shelves
+- counter
+- metal_shelves
 shelves
 
   
@@ -426,7 +422,7 @@ shelves
 ## changeroom
 
 locker
-counter
+- counter
 
   
 
@@ -434,11 +430,11 @@ counter
 
   
 
-counter
-crate
-freezer
-fridge
-metal_shelves
+- counter
+- crate
+- freezer
+- fridge
+- metal_shelves
 restaurantdisplay
 
   
@@ -447,16 +443,16 @@ restaurantdisplay
 
   
 
-counter
+- counter
 restarantdisplay
 
   
 
 ## classroom
 
-counter
+- counter
 desk
-metal_shelves
+- metal_shelves
 shelves
 
   
@@ -465,16 +461,16 @@ shelves
 
   
 
-crate
-metal_shelves
+- crate
+- metal_shelves
 
   
 
 ## clothingstorage
 
 clothingrack
-metal_shelves
-crate
+- metal_shelves
+- crate
 
   
 
@@ -483,47 +479,47 @@ crate
 displaycase
 shelves
 clothingrack
-counter
+- counter
 
   
 
 ## construction
 
-counter
-crate
+- counter
+- crate
 
   
 
 ## conveniencestore
 
-fridge
-freezer
-counter
+- fridge
+- freezer
+- counter
 shelves
 
   
 
 ## cornerstore
 
-fridge
-freezer
-counter
+- fridge
+- freezer
+- counter
 shelves
 
   
 
 ## cornerstorestorage
 
-crate
-metal_shelves
+- crate
+- metal_shelves
 
   
 
 ## daycare
 
-counter
-fridge
-metal_shelves
+- counter
+- fridge
+- metal_shelves
 shelves
 wardrobe
 
@@ -531,25 +527,25 @@ wardrobe
 
 ## deepfry kitchen
 
-counter
-crate
-freezer
-fridge
-metal_shelves
+- counter
+- crate
+- freezer
+- fridge
+- metal_shelves
 restaurantdisplay
 
   
 
 ## dentiststorage
 
-metal_shelves
+- metal_shelves
 
   
 
 ## departmentstorage
 
-crate
-metal_shelves
+- crate
+- metal_shelves
 wardrobe
 sidetable
 
@@ -557,7 +553,7 @@ sidetable
 
 ## departmentstore
 
-counter
+- counter
 displaycase
 shelves
 wardrobe
@@ -567,35 +563,35 @@ sidetable
 
 ## dinerkitchen
 
-counter
-crate
-freezer
-fridge
-metal_shelves
+- counter
+- crate
+- freezer
+- fridge
+- metal_shelves
 restaurantdisplay
 
   
 
 ## dining
 
-counter
+- counter
 shelves
 
   
 
 ## dinerkitchen
 
-freezer
-fridge
-counter
+- freezer
+- fridge
+- counter
 
   
 
 ## dogfoodfactory
 
-counter
-crate
-metal_shelves
+- counter
+- crate
+- metal_shelves
 
   
 
@@ -603,8 +599,8 @@ metal_shelves
 
   
 
-crate
-metal_shelves
+- crate
+- metal_shelves
 
   
 
@@ -612,15 +608,15 @@ metal_shelves
 
   
 
-freezer
-fridge
-crate
+- freezer
+- fridge
+- crate
 
   
 
 ## donut dining
 
-counter
+- counter
 
   
 
@@ -628,9 +624,9 @@ counter
 
   
 
-counter
-crate
-metal_shelves
+- counter
+- crate
+- metal_shelves
 restaurantdisplay
 
   
@@ -639,37 +635,37 @@ restaurantdisplay
 
   
 
-crate
-freezer
-fridge
-metal_shelves
+- crate
+- freezer
+- fridge
+- metal_shelves
 
   
 
 ## electronicsstorage
 
-crate
+- crate
 shelves
-metal_shelves
+- metal_shelves
 
   
 
 ## electronicsstore
 
 displaycase
-counter
+- counter
 shelves
 
   
 
 ## empty
 
-crate
-freezer
-fridge
-counter
+- crate
+- freezer
+- fridge
+- counter
 shelves
-metal_shelves
+- metal_shelves
 wardrobe
 
   
@@ -678,9 +674,9 @@ wardrobe
 
   
 
-counter
-crate
-metal_shelves
+- counter
+- crate
+- metal_shelves
 
   
 
@@ -702,7 +698,7 @@ all
 
   
 
-metal_shelves
+- metal_shelves
 
   
 
@@ -710,27 +706,27 @@ metal_shelves
 
   
 
-counter
-crate
-freezer
-fridge
-metal_shelves
+- counter
+- crate
+- freezer
+- fridge
+- metal_shelves
 restaurantdisplay
 
   
 
 ## fishingstorage
 
-counter
-crate
+- counter
+- crate
 
   
 
 ## fossoil
 
-fridge
-freezer
-counter
+- fridge
+- freezer
+- counter
 shelves
 
   
@@ -739,25 +735,25 @@ shelves
 
  
 
-crate
+- crate
 
   
 
 ## furniturestorage
 
-freezer
-fridge
+- freezer
+- fridge
 wardrobe
 sidetable
-crate
+- crate
 
   
 
 ## furniturestore
-freezer
-fridge
+- freezer
+- fridge
 wardrobe
-counter
+- counter
 
   
 
@@ -765,43 +761,43 @@ counter
 
 other
 bin
-crate
+- crate
 
   
 
 ## gardenstore
 
-counter
+- counter
 clothingrack
-metal_shelves
+- metal_shelves
 shelves
-crate
+- crate
 
   
 
 ## gasstorage
 
-crate
-metal_shelves
+- crate
+- metal_shelves
 
   
 
 ## gasstore
 
-fridge
-freezer
-counter
+- fridge
+- freezer
+- counter
 shelves
 
   
 
 ## generalstore
 
-fridge
-freezer
-counter
+- fridge
+- freezer
+- counter
 shelves
-metal_shelves
+- metal_shelves
 
   
 
@@ -813,7 +809,7 @@ other
 
 ## giftstorage
 
-crate
+- crate
 
   
 
@@ -821,7 +817,7 @@ crate
 
 shelves
 displaycase
-counter
+- counter
 
   
 
@@ -830,17 +826,17 @@ counter
 grocerstand
 displaycasebutcher
 displaycasebakery
-freezer
-fridge
-counter
+- freezer
+- fridge
+- counter
 shelves
-crate
+- crate
 
   
 
 ## gigamartkitchen
 
-counter
+- counter
 
   
 
@@ -849,30 +845,30 @@ counter
 grocerstand
 displaycasebakery
 displaycasebutcher
-freezer
-fridge
-counter
+- freezer
+- fridge
+- counter
 shelves
-smallcrate
-crate
+small- crate
+- crate
 
   
 
 ## grocerystorage
 
-metal_shelves
-fridge
-freezer
-crate
+- metal_shelves
+- fridge
+- freezer
+- crate
 
   
 
 ## gunstore
 
-counter
+- counter
 displaycase
 locker
-metal_shelves
+- metal_shelves
 
   
 
@@ -884,13 +880,13 @@ all
 
 ## gym
 
-metal_shelves
+- metal_shelves
 
   
 
 ## hall
 
-counter
+- counter
 
   
 
@@ -898,7 +894,7 @@ counter
 
   
 
-metal_shelves
+- metal_shelves
 
   
 
@@ -911,7 +907,7 @@ shelves
 ## hunting
 
 locker
-metal_shelves
+- metal_shelves
 other
 
   
@@ -920,18 +916,18 @@ other
 
   
 
-counter
+- counter
 displaycasebakery
-freezer
+- freezer
 restaurantdisplay
 
   
 
 ## icecreamkitchen
 
-counter
-freezer
-fridge
+- counter
+- freezer
+- fridge
 displaycasebakery
 restaurantdisplay
 
@@ -941,11 +937,11 @@ restaurantdisplay
 
   
 
-counter
-crate
-freezer
-fridge
-metal_shelves
+- counter
+- crate
+- freezer
+- fridge
+- metal_shelves
 restaurantdisplay
 
   
@@ -954,7 +950,7 @@ restaurantdisplay
 
   
 
-counter
+- counter
 displaycase
 restaurantdisplay
 
@@ -962,25 +958,25 @@ restaurantdisplay
 
 ## janitor
 
-metal_shelves
-counter
-crate
+- metal_shelves
+- counter
+- crate
 
   
 
 ## jayschicken_kitchen
 
 restaurantdisplay
-freezer
-fridge
-counter
+- freezer
+- fridge
+- counter
 
 ## jewelrystorage
 
   
 
-metal_shelves
-crate
+- metal_shelves
+- crate
 
   
 
@@ -992,14 +988,14 @@ displaycase
 
 ## kennels
 
-counter
-metal_shelves
+- counter
+- metal_shelves
 
   
 
 ## kitchen##
 
-counter
+- counter
 overhead
 shelves
 
@@ -1007,9 +1003,9 @@ shelves
 
 ## kitchen_crepe
 
-fridge
-freezer
-counter
+- fridge
+- freezer
+- counter
 
   
 
@@ -1025,9 +1021,9 @@ shelves
 
   
 
-counter
-crate
-metal_shelves
+- counter
+- crate
+- metal_shelves
 
   
 
@@ -1035,7 +1031,7 @@ metal_shelves
 
   
 
-crate
+- crate
 
   
 
@@ -1049,12 +1045,12 @@ shelves
 
 ## lasertag
 
-crate
+- crate
 
 
 ## laundry
 
-counter
+- counter
 
 
 ## leatherclothesstore
@@ -1064,105 +1060,105 @@ counter
 displaycase  
 shelves
 clothingrack
-counter
+- counter
 
   
 
 ## library
 
-counter
+- counter
 
   
 
 ## liquorstore
 
-counter
+- counter
 shelves
-fridge
-freezer
+- fridge
+- freezer
 
 
 
 ## livingroom
 
 shelves
-counter
+- counter
 overhead
 
   
 
 ## lobby
 
-counter
+- counter
 
   
 
 ## loggingfactory
 
-crate
+- crate
 
   
 
 ## loggingtruck
 
-crate
+- crate
 
   
 
 ## mechanic
 
 wardrobe
-metal_shelves
+- metal_shelves
 
   
 
 ## medical
 
-counter
-metal_shelves
+- counter
+- metal_shelves
 
   
 
 ## medicalstorage
 
-counter
-metal_shelves
+- counter
+- metal_shelves
 
   
-## metalshop
-counter
-crate
-metal_shelves
+## - metalshop
+- counter
+- crate
+- metal_shelves
 
 ## mexicankitchen
 
   
 
-counter
-crate
-freezer
-fridge
-metal_shelves
+- counter
+- crate
+- freezer
+- fridge
+- metal_shelves
 restaurantdisplay
 
   
 
 ## motelroom
 
-fridge
-freezer
+- fridge
+- freezer
 bin
 dresser
 wardrobe
 sidetable
-metal_shelves
+- metal_shelves
 
   
 
 ## motelroomoccupied
 
-freezer
-fridge
+- freezer
+- fridge
 bin
 dresser
 wardrobe
@@ -1175,9 +1171,9 @@ sidetable
   
 
 clothingrack
-counter
-crate
-metal_shelves
+- counter
+- crate
+- metal_shelves
 shelves
 
   
@@ -1192,25 +1188,25 @@ shelves
 
   
 
-crate
-metal_shelves
+- crate
+- metal_shelves
 
   
 
 ## newspapershipping
-crate
-metal_shelves
+- crate
+- metal_shelves
 
 ## newspaperstorage
-crate
+- crate
 ## office
 
-crate
-counter
+- crate
+- counter
 desk
-freezer
-fridge
-metal_shelves
+- freezer
+- fridge
+- metal_shelves
 
   
 
@@ -1218,29 +1214,29 @@ metal_shelves
 
   
 
-crate
-metal_shelves
+- crate
+- metal_shelves
 
   
 
 ## optometrist
 
-counter
+- counter
 
   
 
 ## paintershop
 
-crate
-metal_shelves
+- crate
+- metal_shelves
 overhead
 
 ## pawnshop
-counter
+- counter
 clothingrack
-crate
+- crate
 displaycase
-metal_shelves
+- metal_shelves
 shelves
 
 ## pawnshopcooking
@@ -1251,9 +1247,9 @@ all
 
   
 
-crate
+- crate
 locker
-metal_shelves
+- metal_shelves
 shelves
 
   
@@ -1262,32 +1258,32 @@ shelves
 
   
 
-crate
+- crate
 locker
-metal_shelves
+- metal_shelves
 
   
 
 ## pharmacy
 
-counter
-fridge
-freezer
+- counter
+- fridge
+- freezer
 shelves
 
   
 
 ## pharmacystorage
 
-metal_shelves
-fridge
-freezer
-counter
+- metal_shelves
+- fridge
+- freezer
+- counter
 
  
 ## photoroom
 
-counter
+- counter
 shelves
 
   
@@ -1296,7 +1292,7 @@ shelves
 
   
 
-crate
+- crate
 
   
 
@@ -1304,17 +1300,17 @@ crate
 
   
 
-counter
+- counter
 restaurantdisplay
 
   
 
 ## pizzakitchen
 
-fridge
-freezer
-counter
-metal_shelves
+- fridge
+- freezer
+- counter
+- metal_shelves
 displaycase
 restaurantdisplay
 
@@ -1330,14 +1326,14 @@ displaycase
 
 ## plazastorel##
 
-counter
+- counter
 
   
 
 ## policestorage
 
 locker
-metal_shelves
+- metal_shelves
 
   
 
@@ -1351,7 +1347,7 @@ locker
 
 ## post
 
-counter
+- counter
 
   
 
@@ -1365,8 +1361,8 @@ all
 
   
 
-crate
-laundrydryerbasic
+- crate
+- laundrydryerbasic
 
   
 
@@ -1382,18 +1378,18 @@ wardrobe
 
   
 
-counter
-crate
-metal_shelves
+- counter
+- crate
+- metal_shelves
 
   
 
 ## radiofactory
 
  
-counter
-crate
-metal_shelves
+- counter
+- crate
+- metal_shelves
 
   
 
@@ -1401,30 +1397,30 @@ metal_shelves
 
   
 
-crate
-metal_shelves
+- crate
+- metal_shelves
 
   
 
 ## radiostorage
 
-crate
-metal_shelves
+- crate
+- metal_shelves
 
   
 
 ## restaurant
 
-counter
+- counter
 shelves
 
   
 
 ## restaurantkitchen
 
-freezer
-fridge
-counter
+- freezer
+- fridge
+- counter
 
   
 
@@ -1432,9 +1428,9 @@ counter
 
   
 
-counter
-crate
-metal_shelves
+- counter
+- crate
+- metal_shelves
 desk
 
   
@@ -1443,52 +1439,51 @@ desk
 
   
 
-counter
-crate
-freezer
-fridge
-metal_shelves
+- counter
+- crate
+- freezer
+- fridge
+- metal_shelves
 restaurantdisplay
 
   
 
 ## security
-
-locker
+- locker
 
   
 
 ## sewingstorage
 
-metal_shelves
-crate
+- metal_shelves
+- crate
 
   
 
 ## sewingstore
 
-counter
-shelves
+- counter
+- shelves
 
   
 
 ## shed
 
-other
-logs
+- other
+- logs
 
   
 
 ## shoestore
 
-shelves
-counter
+- shelves
+- counter
 
   
 
 ## sodatruck
   
-crate
+- crate
 
   
 
@@ -1496,104 +1491,103 @@ crate
 
   
 
-counter
-restaurantdisplay
+- counter
+- restaurantdisplay
 
   
 
 ## spiffoskitchen
 
-freezer
-fridge
-counter
+- freezer
+- fridge
+- counter
 
   
 
 ## spiffosstorage
 
-metal_shelves
-crate
+- metal_shelves
+- crate
 
   
 
 ## sportstorage
 
-metal_shelves
-shelves
-crate
-clothingrack
-counter
+- metal_shelves
+- shelves
+- crate
+- clothingrack
+- counter
 
   
 
 ## sportstore
 
-shelves
-clothingrack
-counter
+- shelves
+- clothingrack
+- counter
 
   
 
 ## storageunit
 
-all
+- all
 
   
 
 ## stripclub
 
   
-dresser
+- dresser
 
 
 ## sushidining
-counter
-displaycase
+- counter
+- displaycase
 
   
 
 ## sushikitchen
 
-  
-counter
-crate
-freezer
-fridge
-metal_shelves
-restaurantdisplay
+- counter
+- crate
+- freezer
+- fridge
+- metal_shelves
+- restaurantdisplay
 
   
 
 ## theatre
 
-counter
+- counter
 
   
 
 ## theatrekitchen
 
-freezer
-fridge
-counter
+- freezer
+- fridge
+- counter
 
   
 
 ## theatrestorage
 
-crate
+- crate
 
   
 
 ## toolstore
 
-shelves
-counter
+- shelves
+- counter
 
   
 
 ## toystore
 
-shelves
+- shelves
 
   
 
@@ -1601,59 +1595,53 @@ shelves
 
   
 
-shelves
-crate
+- shelves
+- crate
 
   
 
 ## warehouse
 
-crate
+- crate
 
 ## westernkitchen
 
-  
-
-counter
-crate
-freezer
-fridge
-metal_shelves
-restaurantdisplay
+- counter
+- crate
+- freezer
+- fridge
+- metal_shelves
+- restaurantdisplay
 
   
 
 ## whiskeybottling
 
-counter
-crate
-laundrydryerbasic
-metal_shelves
+- counter
+- crate
+- laundrydryerbasic
+- metal_shelves
 
   
 
 ## wirefactory
-
-
-counter
-crate
-metal_shelves
-
-
+- counter
+- crate
+- metal_shelves
 
 ## zippeestorage
 
-crate
-metal_shelves
+- crate
+- metal_shelves
 
   
 
 ## zippeestore
 
-fridge
-freezer
-counter
-shelves
+- fridge
+- freezer
+- counter
+- shelves
 
   
 
