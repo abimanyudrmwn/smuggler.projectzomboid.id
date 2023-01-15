@@ -46,7 +46,7 @@ export default {
     };
   },
     head: {
-    title: 'Mods - Indonesia Project Zomboid',
+    title: 'Contributors - Indonesia Project Zomboid',
     meta: [
       { 
         name: 'author', 
@@ -59,7 +59,7 @@ export default {
       {
         key: 'og:title',
         property: 'og:title',
-        content: 'Mods - Indonesia Project Zomboid',
+        content: 'Contributors - Indonesia Project Zomboid',
       },
       {
         key: 'og:description',
@@ -79,7 +79,7 @@ export default {
       {
         key: 'twitter:title',
         name: 'twitter:title',
-        content: 'Mods - Indonesia Project Zomboid',
+        content: 'Contributors - Indonesia Project Zomboid',
       },
       {
         key: 'twitter:card',
@@ -96,7 +96,8 @@ export default {
         name: 'twitter:description',
         content: 'Home for Project Zomboid mods from "Indonesia Project Zomboid" Community Server',
       }
-    ]
+    ],
+    link: [{ rel: 'icon', type: 'image/x-icon', href: 'https://www.projectzomboid.id/assets/favicon.png' }],
   },
 }
   </script>

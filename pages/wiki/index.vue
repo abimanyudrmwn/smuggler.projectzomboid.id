@@ -103,7 +103,8 @@ export default {
         name: 'twitter:description',
         content: 'Home for Project Zomboid mods from "Indonesia Project Zomboid" Community Server',
       }
-    ]
+    ],
+    link: [{ rel: 'icon', type: 'image/x-icon', href: 'https://www.projectzomboid.id/assets/favicon.png' }],
   },
   methods: {
     formatDate(date) {

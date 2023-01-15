@@ -75,6 +75,7 @@
           content: "image/jpeg",
         },
       ],
+      link: [{ rel: 'icon', type: 'image/x-icon', href: 'https://www.projectzomboid.id/assets/favicon.png' }],
     };
   },
     components: { YoutubeVideo },
