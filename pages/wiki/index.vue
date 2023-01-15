@@ -1,9 +1,9 @@
 <template>
-  <section class="bg-gray-900">
+  <section class="bg-gray-900 py-10">
   <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
       <div class="mx-auto max-w-screen-sm text-center lg:mb-16 mb-8">
           <h2 class="mb-4 text-3xl lg:text-4xl tracking-tight font-sora text-white">Wiki</h2>
-          <p class="font-sora text-gray-400 sm:text-xl">Anything about mods that Indonesia Project Zomboid Community create.</p>
+          <p class="font-sora text-gray-400 sm:text-xl">Anything about mods by Indonesia Project Zomboid Community.</p>
       </div> 
       <div class="grid gap-8 lg:grid-cols-2">
           <article  v-for="article in current" :key="article.slug" class="p-6 bg-gray-900 rounded-lg border border-gray-700 shadow-md">

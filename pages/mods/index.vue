@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-gray-900">
+    <div class="bg-gray-900 py-10">
     <div class="mx-auto max-w-5xl tracking-wide px-4 xl:px-0">
     <div class="grid grid-cols-1 md:grid-cols-2 gap-10 py-10">
       <div v-for="mods in current" :key="mods.slug" class="border border-gray-700 rounded-xl shadow-lg">
