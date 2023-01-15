@@ -36,7 +36,7 @@
   export default {
     async asyncData({ $content, params }) {
       const mods = await $content("mods", params.slug)
-        .sortBy("createdAt", "dsc")
+        .sortBy("createdAt", "desc")
         .limit(2)
         .fetch();
   
