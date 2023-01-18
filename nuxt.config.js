@@ -21,10 +21,6 @@ export default {
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     "@nuxtjs/robots",
-    ["nuxt-content-git", {
-      createdAtName: "gitCreatedAt",
-      updatedAtName: "gitUpdatedAt",
-    }],
     "@nuxt/content"
   ],
 
